@@ -1,2 +1,2 @@
-# boostcourse
-Boostcourse
+# Boostcourse
+## 부스트코스의 이수하는 과정에서 주요 챕터마다 실습 내용으로 작성되었습니다. 
