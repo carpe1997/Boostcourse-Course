@@ -1,2 +1,2 @@
-# boostcourse
-boostcourse
+# Boostcourse
+Boostcourse
